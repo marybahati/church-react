@@ -23,7 +23,7 @@ class Church extends React.Component {
 						<h2>Hi, are you looking for a  <strong>Church ?</strong></h2>
 						<p>
 							Christian Outreach Ministries World Wide Mombasa is the place to be.we welcome every one to our church
-							to come and worship the King of Kings together with us.Our mission is to reach to the unreached with 
+							to come and worship God together with us.Our mission is to reach to the unreached with 
 							the gospel of Jesus Christ. 
 						</p>
 					</header>
@@ -57,11 +57,11 @@ class Church extends React.Component {
                 </div>
                 <div>
                     <img src={wamama} />
-                    <p className="legend">This are the able women God of our church</p>
+                    <p className="legend">This are the able women of God of the church</p>
                 </div>
                 <div>
                     <img src={wazee} />
-                    <p className="legend">This are the able men of God of our church</p>
+                    <p className="legend">This are the able men of God of the church</p>
                 </div>
                 <div>
                     <img src={toto}/>
@@ -69,7 +69,7 @@ class Church extends React.Component {
                 </div>
                 <div>
                     <img src={jn}/>
-                    <p className="legend">Sunday school kids having their lunch</p>
+                    <p className="legend">Sunday school kids having their lunch(feeding programme)</p>
                 </div>												
             </Carousel>
             </div>
